@@ -1,1 +1,2 @@
 Hallo ich bin Miguel
+Notize: Och arbeite gerade an meiner ersten Git-Aufgabe.
